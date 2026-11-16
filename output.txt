@@ -1,0 +1,1 @@
+Number of vowels in /home/vscode/ICS4UC/Assign/Assign-02/Assign-2-Swift/output.txt: 5
